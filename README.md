@@ -29,7 +29,7 @@ Ensure you have the following installed:
 ### Backend Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/audio-converter.git
+   git clone https://github.com/smokemoha/audio-converter.git
    cd audio-converter
    ```
 2. Configure the `application.properties` file:
